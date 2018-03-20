@@ -1,0 +1,22 @@
+{
+  "name": "ant-design-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hezhii/ant-design-doc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hezhii/ant-design-doc/issues"
+  },
+  "homepage": "https://github.com/hezhii/ant-design-doc#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
