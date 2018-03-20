@@ -1,4 +1,5 @@
 const express = require('express')
+const open = require('open')
 
 const PUBLIC_DIR = 'public'
 const app = express()
@@ -10,4 +11,5 @@ const server = app.listen(3000, function () {
   const port = server.address().port
 
   console.log('Example app listening at http://%s:%s', host, port)
+  open('http://localhost:3000/docs/react/introduce-cn')
 })

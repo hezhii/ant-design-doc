@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hezhii/ant-design-doc#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "open": "0.0.5"
   }
 }
